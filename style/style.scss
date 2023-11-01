@@ -1529,11 +1529,22 @@ header{
         font-size: 25px;
     }
 
+    .modal__prod_stars{
+        margin-top: 5px;
+        margin-bottom: 5px;
+
+        img{
+            height: 15px;
+        }
+    }
+
     .modal__price{
         font-size: 15px;
     }
 
     .modal__prod_colors{
+        margin-top: 5px;
+
         span{
             font-size: 15px;
         }
@@ -1543,6 +1554,11 @@ header{
         span{
             font-size: 15px;
         }
+    }
+
+    .modal__rectangle{
+        width: 41px;
+        height: 27px;
     }
 
 
@@ -1558,6 +1574,7 @@ header{
     .modal__button_add_to_cart{
         width: 240px;
         height: 40px;
+        margin-top: 10px;
 
         img{
             margin-left: 10px;
@@ -1568,12 +1585,16 @@ header{
     .modal__add_to_wishlist{
         width: 240px;
         height: 40px;
-        margin-top: 15px;
+        margin-top: 10px;
 
         img{
             margin-top: 0;
             margin-left: 10px;
         }
+    }
+
+    .modal__social_buttons{
+        margin-top: 15px;
     }
     
 }
