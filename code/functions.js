@@ -69,7 +69,7 @@ export function prodCardBuild(data) {
             <div class="colors_line">${colorLineHTML}</div>
             <div class="button__add_to_cart">
                 <button>
-                    <a href="http://"><img src="../img/ico/shopping_bag.svg" alt="shopping_bag">ADD TO CART</a>
+                    <a href="#"><img src="../img/ico/shopping_bag.svg" alt="shopping_bag">ADD TO CART</a>
                 </button>
             </div>
         </div>

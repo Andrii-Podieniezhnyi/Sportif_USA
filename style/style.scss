@@ -734,6 +734,8 @@ header{
     }
 }
 
+
+
 .filters_title{
     display: flex;
     justify-content: space-between;
@@ -773,6 +775,7 @@ header{
 
 .rotateImg{
     transition: transform 1.1s ease;
+    cursor: pointer;
 }
 
 .rotate{
