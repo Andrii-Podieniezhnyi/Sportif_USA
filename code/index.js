@@ -19,7 +19,7 @@ const current_discount_40_percent__card = current_discount_40_percent.map(({prod
         <div class="now_off__1__prod_price">As low as<span>${prodPrice}</span></div>
         <div class="button__add_to_cart">
             <button>
-                <a href="/"><img src="./img/ico/shopping_bag.svg" alt="shopping_bag">ADD TO CART</a>
+                <a href="#"><img src="./img/ico/shopping_bag.svg" alt="shopping_bag">ADD TO CART</a>
             </button>
         </div>
     </div>
